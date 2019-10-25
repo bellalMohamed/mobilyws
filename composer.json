@@ -1,0 +1,18 @@
+{
+    "name": "bellal/mobilyws",
+    "description": "A package to send SMS using Mobily.ws API",
+    "license": "waqf",
+    "type": "package",
+    "version":"1.5.0",
+    "keywords": ["laravel","mobily.ws"],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "bellal\\mobilyws\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
+
